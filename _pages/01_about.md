@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+Hi,
 
-About content goes here.
+My name is Shawn and I'm a programmer and web developer in training. Check out some of my work at the following links:
 
-* A list item
-* Another list item
+* [Codepen.io](https://codepen.io/Apacheman/)
