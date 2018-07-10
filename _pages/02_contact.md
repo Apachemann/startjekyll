@@ -3,7 +3,6 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+You can contact me through the following:
 
-Contact content goes here.
-
-My e-mail is [email@something.com](mailto:email@something.com).
+My e-mail is [shawnkorns@mac.com](mailto:shawnkorns@mac.com).
